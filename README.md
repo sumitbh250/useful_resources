@@ -21,6 +21,7 @@ MIT 6.824: Distributed Systems: <br />
 https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB <br />
 
 Consensus Protocols: https://medium.com/@vardan.sevan
+PDF notes: http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf
 
 ### 4. Microservices
 
