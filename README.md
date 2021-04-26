@@ -20,6 +20,8 @@ https://www.youtube.com/watch?v=QiXK0B9FhO0&list=PLhfHPmPYPPRlV_1JSSEtkEIuXEJQBk
 MIT 6.824: Distributed Systems: <br />
 https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB <br />
 
+Consensus Protocols: https://medium.com/@vardan.sevan
+
 ### 4. Microservices
 
 https://www.youtube.com/watch?v=ADHcBxEXvFA&list=PLhfHPmPYPPRk5WxsLhQIOEznHEeFJAoVM
