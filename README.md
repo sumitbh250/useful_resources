@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9
 Consensus Protocols: https://medium.com/@vardan.sevan
 PDF notes: http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf
 
+https://serhatgiydiren.github.io/helpful-resources-for-system-design-interviews
+
 ### 4. Microservices
 
 https://www.youtube.com/watch?v=ADHcBxEXvFA&list=PLhfHPmPYPPRk5WxsLhQIOEznHEeFJAoVM
